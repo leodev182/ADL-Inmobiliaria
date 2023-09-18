@@ -1,5 +1,4 @@
 //-------------------IMPORTACIONES
-import propiedadesAlquiler from "./pAlquiler.js";
 import propiedadesVenta from "./pVentas.js";
 
 // console.log(propiedadesAlquiler);
@@ -8,7 +7,6 @@ import propiedadesVenta from "./pVentas.js";
 //-------------------ELEMENTOS DEL DOM
 
 const containerCards = document.querySelector("#listado-ventas");
-const containerRent = document.querySelector("#listado-alquiler");
 
 //-------------------FUNCIONES
 
